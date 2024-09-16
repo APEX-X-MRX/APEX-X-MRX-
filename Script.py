@@ -4,7 +4,7 @@ class script(object):
     HELP_TXT = """<b>𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂.</b>"""
     ABOUT_TXT = """<b>✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
-✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/Mrz_bots>Creator</a>
+✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/APEX_X_MRX>Creator</a>
 ✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
 ✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
 ✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
@@ -15,7 +15,7 @@ class script(object):
 - Sᴏᴜʀᴄᴇ  - https://github.com/Mrzbots/AutoFilterBot  
 
 <b>DEVS:</b>
-- <a href=https://t.me/Mrz_bots>Creator</a>"""
+- <a href=https://t.me/APEX_X_MRX>Creator</a>"""
     IMAGINE = """ How to Use example
 <code>/imagine a boy and girl looking a sky </code>
 You Can Create Your like pictures using by This command /imagine """
@@ -31,7 +31,7 @@ Bʏ ᴜsɪɴɢ ᴛʜɪs ᴄᴏᴍᴍᴀɴᴅ.
 
 Yᴏᴜ ᴄᴀɴ ʀᴇᴍᴏᴠᴇ ᴛʜᴇᴍ ʙʏ ᴀᴅᴍɪɴ ᴜsɪɴɢ ᴛʜɪs ᴄᴏᴍᴍᴀɴᴅ /demote</b>"""
     IMG = """ You Can Serch Image Using This command /img
-Example: <code> /image Tony stark </code>"""
+Example: <code> /image Nezuko</code>"""
     FONT_TXT = """ ᴛᴏ ᴜsᴇ ᴛʜɪs ғᴜɴᴄᴛɪᴏɴ
 
 /font {your_text}
